@@ -1,0 +1,14 @@
+
+li{
+    cursor: pointer;
+    transition: 0.4s all;
+}
+
+ul{
+    position: fixed; /*PARA QUE TOME EL ESPACIO MINIMO NECESARIO DE SU CONTENIDO */
+    top: 20px;
+    left: 20px;
+    z-index: 999;
+    width: 180px;
+    border: 2px solid #000;
+}
